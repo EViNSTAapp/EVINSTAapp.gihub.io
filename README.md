@@ -1,4 +1,3 @@
-# EVINSTAapp.gihub.io
 <div>
   <h3>Privacy Policy</h3>
   <p>Last Updated: Sep 16 2022</p>
